@@ -1,0 +1,36 @@
+html body {
+    overflow: hidden;
+}
+
+.content {
+    color: white;
+    opacity: 0.43;
+    font-family: Montserrat;
+    text-align: center;
+}
+
+.content a {
+    text-decoration: none;
+    font-size: 1.5rem;
+    margin-right: 1vw;
+}
+
+.content h3 {
+    margin-top: 35vh;
+    margin-bottom: 1vh;
+    font-size: 8rem;
+}
+
+.content p {
+    font-size: 3rem;
+}
+
+.background {
+    width: 1920px;
+    height: 1080px;
+    z-index: -1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
