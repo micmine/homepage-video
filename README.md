@@ -1,6 +1,8 @@
 # homepage-video
 A simple website for your homepage.
 
+[DEMO](https://micmine.github.io/homepage-video/)
+
 Get Started
 ------------
 Replace your video witch the existing video.
